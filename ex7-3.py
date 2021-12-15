@@ -1,11 +1,5 @@
 """
-Hay cuatro errores en este código. Identifícalos. (4 pts)
-
-respuesta = input("¿Cuál es el nombre del compañero de Sherlock Holmes?")
-if r = "Watson":
-    print("Correcto!")
-    else
-    print("Incorrecto! Es Watson.")
+Hay cuatro errores en este código. Identifícalos.
 """
 
 res = input("¿Cuál es el nombre del compañero de Sherlock Holmes?")
